@@ -34,7 +34,7 @@ function geocodeLatLng(input1) {
       window.alert('Geocoder failed due to: ' + status);
     }
   });
-  
+
   console.log("hey this one" + output);
   return output;
 }
