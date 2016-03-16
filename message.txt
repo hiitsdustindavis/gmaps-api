@@ -1,1 +1,1 @@
-move functions to separate js file and fin current location
+hey this is alexs and dustins project that Im commiting on and it doesnt work
